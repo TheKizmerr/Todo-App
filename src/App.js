@@ -18,8 +18,8 @@ const Form = () => {
 
     const Login = (details) => {
 
-        const password = "admin123";
-        const email = "admin@com"
+        const password = "user@com";
+        const email = "Todo@2021"
 
         if (details.email === email && details.password === password) {
             setUser({
