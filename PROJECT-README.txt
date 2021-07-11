@@ -1,0 +1,1 @@
+Przed startem projektu trzeba zainstalować node_modules z React (npm install react-scripts --save)
