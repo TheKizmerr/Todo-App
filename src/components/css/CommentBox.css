@@ -1,0 +1,15 @@
+.comment-area {
+    display: flex;
+    flex-direction: row;
+}
+
+.comment-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.comment-box-input {
+    width: 500px !important;
+    background-color: white !important;
+}

@@ -1,0 +1,75 @@
+.logout-button {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.task-container {
+    display: flex;
+    height: auto;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 700px;
+    justify-content: center;
+    box-shadow: inset 0 0 1em white, 0 0 0.5em black;
+    padding: 20px;
+    background-color: white;
+}
+
+.button-container {
+    background-color: white;
+}
+
+.todo-item {
+    width: 500px;
+    display: flex;
+    background-color: white;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.complete-btn {
+    width: 38px;
+}
+
+.complete-btn {
+    background-color: green;
+}
+
+.complete-icon {
+    background-color: green;
+}
+
+.complete-icon:hover {
+    background-color: rgb(56, 167, 56);
+}
+
+.complete-btn:hover {
+    background-color: rgb(56, 167, 56);
+}
+
+.complete-btn:hover > .complete-icon {
+    background-color: rgb(56, 167, 56);
+}
+
+.buttons {
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.delete-button {
+    height: 38px;
+    margin-right: 5px;
+}
+
+.add-button {
+    height: 38px;
+    white-space: nowrap;
+}
