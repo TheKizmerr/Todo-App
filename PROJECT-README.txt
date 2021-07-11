@@ -7,4 +7,4 @@ Pisanie kodu zostało oparte o syntax przyjęty globalnie dla biblioteki React (
 
 Głównym moim zadaniem było pokazanie mechaniki i implementacji jezyka JavaScript w React.
 
-Pomocy szukałem w źródłach PluralSight, lecz głównie polegałem na dokumentacji np. W3School, MDN Web Docs oraz StackOverflow oraz książke Marjin Haverbejke "Eloquent JavaScript".
+Pomocy szukałem w źródłach PluralSight, YouTube, Reddit lecz głównie polegałem na dokumentacji np. W3School, MDN Web Docs oraz StackOverflow oraz książke Marjin Haverbejke "Eloquent JavaScript".
