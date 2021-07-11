@@ -27,7 +27,7 @@ const Form = () => {
                 password: details.password
             })
         } else {
-            alert("failure")
+            alert("Email or password are wrong. Please try again with the correct credentials.")
         }
     }
 
