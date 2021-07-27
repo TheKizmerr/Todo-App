@@ -2,8 +2,8 @@
 import React from 'react';
 // Components imports
 import ButtonComponents from './ButtonComponents';
-// CSS imports
-import './css/TaskListStyle.css';
+// CSS7SASS imports
+import './css/TaskListStyle.scss';
 // Bootstrap import
 import 'bootstrap/dist/css/bootstrap.min.css';
 
