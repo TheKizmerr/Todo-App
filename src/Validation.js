@@ -18,7 +18,7 @@ function Validation({ Login }) {
             <div className="login-form">
             <label className="login-label">Login</label>
                 <div className="login-container">
-                    <input className="login-input" type="email" onChange={e => setCredentials({...credentials, email: e.target.value})} value={credentials.name}></input>
+                    <input className="login-input" type="email" onChange={e => setCredentials({...credentials, email: e.target.value})} value={credentials.email}></input>
                 </div>
                 <label className="password-label">Password</label>
                 <div className="password-container">
