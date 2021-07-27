@@ -10,26 +10,22 @@
     color:white;
     padding: 10px;
     text-align: center;
-    .taskList {
-      width: 700px;
-      margin: auto;
-      height: 100%;
-      .taskList-container {
-        margin-bottom: 50px;
-        .form {
-          display: flex;
-          .form-control {
-            text-align: center;
-            display: flex;
-          }
-        }
-      }
-    }
+
 }
 
+.taskList {
+  width: 700px;
+  margin: auto;
+  height: 100%;
+  .taskList-container {
+    margin-bottom: 50px;
+    .form {
+      display: flex;
+    }
+  }
+}
 
-
-
-
-
-
+.form-control {
+  text-align: center;
+  display: flex;
+}

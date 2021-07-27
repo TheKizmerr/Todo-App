@@ -18,27 +18,26 @@
             .completed {
                 text-decoration: line-through;
                 opacity: 0.5;
-                .complete-btn {
-                    width: 38px;
-                    background-color: green;
-                    &:hover {
-                        background-color: rgb(56, 167, 56);
-                    }
-                    .complete-btn:hover > .complete-icon {
-                        background-color: rgb(56, 167, 56);
-                    }
-                    .complete-icon {
-                        background-color: green;
-                        &:hover {
-                            background-color: rgb(56, 167, 56);
-                        }
-                    }
-                }
-            }
-            
+            }  
         }
     }
-    
+}
+
+.complete-btn {
+    width: 38px;
+    background-color: green;
+    &:hover {
+        background-color: rgb(56, 167, 56);
+    }
+    .complete-btn:hover > .complete-icon {
+        background-color: rgb(56, 167, 56);
+    }
+    .complete-icon {
+        background-color: green;
+        &:hover {
+            background-color: rgb(56, 167, 56);
+        }
+    }
 }
 
 .buttons {
@@ -47,14 +46,16 @@
     background-color: white;
     display: flex;
     justify-content: center;
-    .delete-button {
-        height: 38px;
-        margin-right: 5px;
-    }
-    .add-button {
-        height: 38px;
-        white-space: nowrap;
-    }
+
+}
+
+.delete-button {
+    height: 38px;
+    margin-right: 5px;
+}
+.add-button {
+    height: 38px;
+    white-space: nowrap;
 }
 
 .logout-button {
