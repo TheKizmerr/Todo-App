@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: auto;
+    background-color: rgb(88, 53, 112);
+  }
+
+.header {
+    color:white;
+    padding: 10px;
+    text-align: center;
+    .taskList {
+      width: 700px;
+      margin: auto;
+      height: 100%;
+      .taskList-container {
+        margin-bottom: 50px;
+        .form {
+          display: flex;
+          .form-control {
+            text-align: center;
+            display: flex;
+          }
+        }
+      }
+    }
+}
+
+
+
+
+
+
+

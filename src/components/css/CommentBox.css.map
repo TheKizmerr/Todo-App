@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACV,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;CACtB;;AAED,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;CACtB;;AAED,AAAA,kBAAkB,CAAC;EACf,KAAK,EAAE,gBAAgB;EACvB,gBAAgB,EAAE,gBAAgB;CACrC",
+    "sources": [
+        "CommentBox.scss"
+    ],
+    "names": [],
+    "file": "CommentBox.css"
+}
