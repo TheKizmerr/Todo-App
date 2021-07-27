@@ -1,8 +1,8 @@
 // React import
 import React from 'react';
 // CSS imports
-import './css/ButtonComponents.css'
-import './css/CommentBox.css';
+import './css/ButtonComponents.scss'
+import './css/CommentBox.scss';
 
 const ButtonComponents = ({ id, text, task, setTask, tasks, isComment, setIsComment }) => {
 
