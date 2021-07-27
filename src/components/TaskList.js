@@ -2,7 +2,7 @@
 import React from 'react';
 // Components imports
 import ButtonComponents from './ButtonComponents';
-// CSS7SASS imports
+// CSS&SASS imports
 import './css/TaskListStyle.scss';
 // Bootstrap import
 import 'bootstrap/dist/css/bootstrap.min.css';
