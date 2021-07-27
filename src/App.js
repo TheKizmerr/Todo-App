@@ -4,8 +4,8 @@ import React, { useState } from 'react';
 import Validation from './Validation';
 import TaskList from './components/TaskList';
 import Header from './components/Header';
-// CSS imports
-import './components/css/ButtonComponents.css';
+// CSS&SASS imports
+import './components/css/ButtonComponents.scss';
 // Bootstrap import
 import 'bootstrap/dist/css/bootstrap.min.css';
 
